@@ -1,5 +1,5 @@
 # Raven Development Team
-### Simple, efficient, premium red-teaming tools and utilities.
+### Simple, efficient, powerful and premium-quality utilities for security, privacy, management and pentesting.
 
 > [!WARNING]
 > Raven is still currently under development. No software is currently available.
@@ -16,13 +16,13 @@
 A: No.
 
 ### Q: Who are the members of Raven?
-A: All members of Raven do not disclose their identities. If we wanted you to know, you'd know.
+A: Most members of Raven do not disclose their identities. If we wanted you to know, you'd know.
 
 ### Q: Can you make me some elite hacker software so I can "*beam*" this mean guy on Discord? Also, do you accept Discord Nitro?
 A: Sorry, we're not interested in selling to snot-nosed skids. While it's true that our software theoretically *could* be used for that purpose, it goes against the license agreement that goes with the software, and we will refuse to sell you our utilities if it's for that purpose. Our software is for testing security, not exploting and abusing the security of vulnerable people that you don't like for stealing your Roblox girlfriend. You're not cool for doing it.
 
 ### Q: How do I use your software?
-A: Majority of our software is extremely easy to understand out of the box. If not, a guide/handbook will be provided along with the software. If you still can't figure it out, then you really shouldn't be purchasing the software in the first place.
+A: Majority of our software is extremely easy to understand out of the box. If not, a guide/handbook will be provided along with the software. You can also reach out to us if you have any technical issues or problems, or need help. This help is not provided for free software.
 
 ## Free Software
 Our free software will be available in our public repositories. Free software is not guaranteed to be consistently updated or bug-free. Issues opened on GitHub will most likely be ignored on free software (fork it and make a better version yourself).
