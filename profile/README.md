@@ -1,4 +1,4 @@
-![Organization Page Banner](#)
+![Organization Page Banner](https://raw.githubusercontent.com/ravendevteam/.github/refs/heads/main/profile/banner.png)
 
 # Privacy and security should be on by default.
 
