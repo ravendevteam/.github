@@ -1,13 +1,13 @@
 ![Organization Page Banner](https://raw.githubusercontent.com/ravendevteam/.github/refs/heads/main/profile/banner.png)
 
-# Privacy and security should be on by default.
+Building secure, privacy first solutions that guard digital freedom.
 
-We're fighting for a safer, private, and open internet by creating software and services that respect your fundamental rights. Violating your rights is not a valid business model.
+We believe that violating your rights is not a valid business model. That's why our software and services prioritize privacy and trust from the start.
 
 
 ## Open Source Software
 
-Raven believes that open source is for everybody. That is why we are working hard to bring simple and efficient open source software to even the less tech savvy, but this cannot be done without your help. Consider [contributing to our projects](https://github.com/orgs/ravendevteam/repositories) and become a part of the fight to preserve the safety and freedom of our digital world.
+We believe that open source is for everybody. That is why we are working hard to bring simple and efficient open source software to even the less tech savvy, but this cannot be done without your help. Consider [contributing to our projects](https://github.com/orgs/ravendevteam/repositories) and become a part of the fight to preserve the safety and freedom of our digital world.
 
 * [Explore our free software](https://ravendevteam.org/explore)
 * [Donate](https://buymeacoffee.com/ravendevteam)
