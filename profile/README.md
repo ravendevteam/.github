@@ -1,6 +1,6 @@
 ![Organization Page Banner](https://raw.githubusercontent.com/ravendevteam/.github/refs/heads/main/profile/banner.png)
 
-Building secure, privacy first solutions that guard digital freedom.
+# Building secure, privacy first solutions that guard digital freedom.
 
 We believe that violating your rights is not a valid business model. That's why our software and services prioritize privacy and trust from the start.
 
