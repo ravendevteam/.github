@@ -15,4 +15,4 @@ We believe that open source is for everybody. That is why we are working hard to
 
 ----
 
-All open source projects by the Raven Development Team adopt the [BSD-3-Clause License](https://code.ravendevteam.org/license.txt). By using our software, you acknowledge and agree to the terms of the license.
+All open source projects by the Raven Development Team adopt the [BSD-3-Clause License](https://raventechnologiesgroup.com/BSD-3-Clause.txt). By using our software, you acknowledge and agree to the terms of the license.
