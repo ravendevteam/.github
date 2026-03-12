@@ -1,8 +1,8 @@
 ![Organization Page Banner](https://raw.githubusercontent.com/ravendevteam/.github/refs/heads/main/profile/banner.png)
 
-# Security and privacy by default.
+# Building infrastructure for a new digital age
 
-Violating your rights is not a valid business model. Our software and services prioritize privacy and trust from the start.
+Our software and platforms help individuals and organizations build, control, and trust the systems they rely on every day.
 
 
 ## Open Source Software
