@@ -1,9 +1,5 @@
 ![Organization Page Banner](https://raw.githubusercontent.com/ravendevteam/.github/refs/heads/main/profile/banner.png)
 
-# Building infrastructure for a new digital age
-
-Our software and platforms help individuals and organizations build, control, and trust the systems they rely on every day.
-
 > [!IMPORTANT]  
 > We use GitHub as a read-only mirror of our software repositories. We do not accept GitHub Issues or Pull Requests. If you would like to report a bug, request a feature or change, provide feedback, or suggest improvements, please submit your feedback through our [feedback form](https://raventechnologiesgroup.com/softwarefeedback).
 
