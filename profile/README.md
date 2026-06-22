@@ -9,4 +9,4 @@
 
 ----
 
-All of our open source projects adopt the [BSD-3-Clause License](https://raventechnologiesgroup.com/BSD-3-Clause.txt). By using our software, you acknowledge and agree to the terms of the license.
+All of our repositories made available through this GitHub organization adopt the [BSD-3-Clause License](https://raventechnologiesgroup.com/BSD-3-Clause.txt) unless explicitly stated otherwise. By using our software, you acknowledge and agree to the terms of the license.
