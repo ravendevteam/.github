@@ -3,7 +3,7 @@
 > [!IMPORTANT]  
 > We use GitHub as a read-only mirror of our software repositories. We do not accept GitHub Issues or Pull Requests. If you would like to report a bug, request a feature or change, provide feedback, or suggest improvements, please submit your feedback through our [feedback form](https://raventechnologiesgroup.com/softwarefeedback). The [Endpoint Protocol](https://github.com/ravendevteam/endpoint-protocol) repository is an exception.
 
-* [Explore our free software](https://raventechnologiesgroup.com/explore)
+* [The Alternet Project](https://alternetproject.com)
 * [Donate](https://buymeacoffee.com/raventechnologiesgroup)
 * [Contact us](mailto:contact@raventechnologiesgroup.com)
 
